@@ -1,0 +1,24 @@
+body{
+    background-color: #cacaca;
+}
+
+.box{
+    background-color: white;
+    /* width: 80%; */
+    padding: 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 0px 0px 10px 0px gray;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.card-title{
+    text-align:center;
+}
+.form-control , .btn{
+    margin-top:10px;
+}
+
